@@ -1,9 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T00:00:06.768Z",
+  "generatedAt": "2026-08-11T12:31:43.111Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351083.htm",
+      "title": "我校学生在第十一届全国大学生生命科学竞赛获佳绩",
+      "summary": "",
+      "dateStr": "2026-08-11",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "竞赛"
+      ],
+      "aiSummary": "济南大学学生在第十一届全国大学生生命科学竞赛中取得优异成绩，展现学校人才培养成果。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "生命科学竞赛",
+        "学生获奖",
+        "人才培养"
+      ]
+    },
     {
       "url": "https://stinfo.ujn.edu.cn/info/1014/13483.htm",
       "title": "关于济南大学支传顺等参与申报2025年齐鲁水利科学技术奖的公示",
@@ -25,6 +46,26 @@
         "公示",
         "支传顺",
         "2025年"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/351093.htm",
+      "title": "“泠泠齐鲁 弦动海峡”鲁台青年中华民乐会在济南大学举办",
+      "summary": "",
+      "dateStr": "2026-08-11",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学举办鲁台青年中华民乐会，促进两岸文化交流。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "鲁台交流",
+        "民乐会",
+        "中华文化",
+        "两岸青年"
       ]
     },
     {
