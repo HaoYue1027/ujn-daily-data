@@ -1,66 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T12:00:02.119Z",
+  "generatedAt": "2026-08-16T01:52:54.747Z",
   "lookbackDays": 1,
   "aiEnabled": false,
-  "items": [
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351123.htm",
-      "title": "我校原创作品及个人入围2026中国顶尖舞者成长计划",
-      "summary": "",
-      "dateStr": "2026-08-14",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学原创作品及个人入围2026中国顶尖舞者成长计划，彰显艺术教育成果。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "顶尖舞者",
-        "成长计划",
-        "原创作品",
-        "艺术教育"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1049/351153.htm",
-      "title": "印尼留台校友联谊会代表团访问济南大学",
-      "summary": "",
-      "dateStr": "2026-08-14",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "印尼留台校友联谊会代表团访问济南大学，促进国际交流与合作。",
-      "aiScore": 3,
-      "aiTags": [
-        "印尼",
-        "校友会",
-        "访问",
-        "国际合作"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1049/351133.htm",
-      "title": "体育学院赴聊城大学开展运动训练专业专项调研",
-      "summary": "",
-      "dateStr": "2026-08-14",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "体育学院赴聊城大学调研运动训练专业，交流办学经验。",
-      "aiScore": 3,
-      "aiTags": [
-        "体育学院",
-        "聊城大学",
-        "运动训练",
-        "调研"
-      ]
-    }
-  ]
+  "items": []
 }
