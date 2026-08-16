@@ -1,7 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T01:52:54.747Z",
+  "generatedAt": "2026-08-16T12:00:02.260Z",
   "lookbackDays": 1,
-  "aiEnabled": false,
-  "items": []
+  "aiEnabled": true,
+  "items": [
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351203.htm",
+      "title": "我校2026年本科招生录取工作圆满收官 生源质量稳步提升",
+      "summary": "",
+      "dateStr": "2026-08-16",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "招生",
+        "录取"
+      ],
+      "aiSummary": "济南大学2026年本科招生录取工作圆满结束，生源质量稳步提升。",
+      "aiScore": 4,
+      "aiTags": [
+        "招生录取",
+        "本科招生",
+        "生源质量",
+        "济南大学"
+      ]
+    }
+  ]
 }
