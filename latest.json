@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T01:54:12.263Z",
+  "generatedAt": "2026-08-20T12:00:02.178Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
@@ -23,6 +23,30 @@
         "创新创业",
         "全国总决赛",
         "获奖"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1051/351353.htm",
+      "title": "济南大学关于第十五届“挑战杯”中国大学生创业计划竞赛东北振兴产业升级专项赛申报项目的公示",
+      "summary": "",
+      "dateStr": "2026-08-20",
+      "source": "济南大学官网",
+      "column": "通知公告",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "申报",
+        "公示",
+        "竞赛"
+      ],
+      "aiSummary": "济南大学公示第十五届“挑战杯”创业计划竞赛东北振兴专项赛申报项目。",
+      "aiScore": 4,
+      "aiTags": [
+        "挑战杯",
+        "创业计划",
+        "东北振兴",
+        "项目公示",
+        "济南大学"
       ]
     },
     {
