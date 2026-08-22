@@ -1,9 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T00:41:18.095Z",
+  "generatedAt": "2026-08-22T12:00:02.045Z",
   "lookbackDays": 1,
-  "aiEnabled": false,
+  "aiEnabled": true,
   "items": [
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351393.htm",
+      "title": "学校党委书记刘春华带队督导检查学校2026年基础设施改造提升项目",
+      "summary": "",
+      "dateStr": "2026-08-22",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "学校党委书记刘春华带队督导检查2026年基础设施改造提升项目，强调确保工程质量和进度。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "刘春华",
+        "基础设施",
+        "改造提升",
+        "督导检查"
+      ]
+    },
     {
       "url": "https://jwc.ujn.edu.cn/info/1058/27446.htm",
       "title": "关于征集“人工智能+教育”优秀案例的通知",
