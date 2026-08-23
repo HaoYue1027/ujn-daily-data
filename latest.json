@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T12:00:02.045Z",
+  "generatedAt": "2026-08-23T01:40:28.609Z",
   "lookbackDays": 1,
-  "aiEnabled": true,
+  "aiEnabled": false,
   "items": [
     {
       "url": "https://www.ujn.edu.cn/info/1047/351393.htm",
@@ -22,45 +22,6 @@
         "基础设施",
         "改造提升",
         "督导检查"
-      ]
-    },
-    {
-      "url": "https://jwc.ujn.edu.cn/info/1058/27446.htm",
-      "title": "关于征集“人工智能+教育”优秀案例的通知",
-      "summary": "",
-      "dateStr": "2026-08-21",
-      "source": "教务处",
-      "column": "通知公告",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "教务处征集“人工智能+教育”优秀案例，推动教育创新。",
-      "aiScore": 3,
-      "aiTags": [
-        "人工智能",
-        "教育",
-        "案例征集",
-        "教务处"
-      ]
-    },
-    {
-      "url": "https://math.ujn.edu.cn/info/1063/18997.htm",
-      "title": "学院在2026年“党课开讲啦”和“我和我的支部”活动中获奖",
-      "summary": "",
-      "dateStr": "2026-08-21",
-      "source": "数学科学学院",
-      "column": "xwdt",
-      "priority": "low",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "数学科学学院在2026年“党课开讲啦”和“我和我的支部”活动中获奖，展现党建工作成果。",
-      "aiScore": 3,
-      "aiTags": [
-        "数学科学学院",
-        "党课开讲啦",
-        "我和我的支部",
-        "获奖",
-        "党建"
       ]
     }
   ]
