@@ -1,7 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T02:17:19.185Z",
+  "generatedAt": "2026-08-24T12:30:31.293Z",
   "lookbackDays": 1,
-  "aiEnabled": false,
-  "items": []
+  "aiEnabled": true,
+  "items": [
+    {
+      "url": "https://jwc.ujn.edu.cn/info/1058/27466.htm",
+      "title": "关于公示济南大学2026年山东省高等教育研究专项课题拟推荐名单的通知",
+      "summary": "",
+      "dateStr": "2026-08-24",
+      "source": "教务处",
+      "column": "通知公告",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "公示",
+        "课题"
+      ],
+      "aiSummary": "济南大学公示2026年山东省高等教育研究专项课题拟推荐名单，面向全校公开征求意见。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "高等教育",
+        "课题推荐",
+        "公示"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351423.htm",
+      "title": "学校亮相2026山东省教育博览会",
+      "summary": "",
+      "dateStr": "2026-08-24",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学在2026山东省教育博览会上亮相，展示学校风采与教育成果。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "教育博览会",
+        "山东省",
+        "2026",
+        "学校展示"
+      ]
+    }
+  ]
 }
