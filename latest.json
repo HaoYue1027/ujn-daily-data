@@ -1,9 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T12:47:09.254Z",
+  "generatedAt": "2026-08-27T02:00:20.181Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351613.htm",
+      "title": "我校2026年度国家自然科学基金立项数迈上百项新台阶",
+      "summary": "",
+      "dateStr": "2026-08-26",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "立项"
+      ],
+      "aiSummary": "济南大学2026年国家自然科学基金立项数突破百项，实现历史性跨越，彰显科研实力提升。",
+      "aiScore": 5,
+      "aiTags": [
+        "国家自然科学基金",
+        "立项数",
+        "科研突破",
+        "济南大学",
+        "2026年度"
+      ]
+    },
     {
       "url": "https://skc.ujn.edu.cn/info/1051/10778.htm",
       "title": "关于做好山东省高等学校哲学社会科学研究项目申报工作的通知",
@@ -25,6 +47,25 @@
         "山东省",
         "高校",
         "研究通知"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351643.htm",
+      "title": "学校召开济南大学卓越工程师学院第一届理事会第三次会议",
+      "summary": "",
+      "dateStr": "2026-08-26",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学召开卓越工程师学院第一届理事会第三次会议，讨论学院发展相关事宜。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "卓越工程师学院",
+        "理事会",
+        "会议"
       ]
     }
   ]
