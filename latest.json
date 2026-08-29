@@ -1,7 +1,51 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T01:31:08.270Z",
+  "generatedAt": "2026-08-29T03:20:49.666Z",
   "lookbackDays": 1,
-  "aiEnabled": false,
-  "items": []
+  "aiEnabled": true,
+  "items": [
+    {
+      "url": "https://jwc.ujn.edu.cn/info/1058/27546.htm",
+      "title": "济南大学2026-2027学年第一学期本科生选课指南",
+      "summary": "",
+      "dateStr": "2026-08-28",
+      "source": "教务处",
+      "column": "通知公告",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "选课"
+      ],
+      "aiSummary": "济南大学发布2026-2027学年第一学期本科生选课指南，指导选课流程与注意事项。",
+      "aiScore": 4,
+      "aiTags": [
+        "选课指南",
+        "本科生",
+        "济南大学",
+        "2026-2027学年"
+      ]
+    },
+    {
+      "url": "https://tj.ujn.edu.cn/info/1059/17546.htm",
+      "title": "喜报！我院获批6项国家自然科学基金项目",
+      "summary": "近日，国家自然科学基金委员会公布了 2027 年度国家自然科学基金项目评审结果。我院科研工作再创佳绩，共获批国家自然科学基金项目 6 项，其中面上项目 2 项，青年科学基金项目（ C 类） 4 项。 此次获批的项目涵盖了学院多个优势学科领域，充分展现了学院在基础研究和应用基础研究方面的强劲实力与广阔前景。其中， 2 项面上项目的获批，彰显了学院骨干教师在相关",
+      "dateStr": "2026-08-28",
+      "source": "土木建筑学院",
+      "column": "tjxw/xyxw",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "评审"
+      ],
+      "aiSummary": "土木建筑学院获批6项国家自然科学基金项目，含2项面上和4项青年项目，展现强劲科研实力。",
+      "aiScore": 5,
+      "aiTags": [
+        "国家自然科学基金",
+        "土木建筑",
+        "科研项目",
+        "面上项目",
+        "青年基金"
+      ]
+    }
+  ]
 }
