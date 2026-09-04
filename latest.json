@@ -1,9 +1,52 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T00:21:12.059Z",
+  "generatedAt": "2026-09-04T12:26:47.132Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351873.htm",
+      "title": "济南大学举办2026年暑期干部履职能力提升培训班",
+      "summary": "",
+      "dateStr": "2026-09-04",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "培训"
+      ],
+      "aiSummary": "济南大学举办2026年暑期干部履职能力提升培训班，旨在提升干部能力。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "干部培训",
+        "履职能力",
+        "暑期"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1048/351833.htm",
+      "title": "绿色低碳材料助力体育产业发展学术研讨会暨京津冀鲁体育产业交流大会在德州召开",
+      "summary": "",
+      "dateStr": "2026-09-04",
+      "source": "济南大学官网",
+      "column": "教学科研",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "研讨会"
+      ],
+      "aiSummary": "济南大学参与绿色低碳材料与体育产业研讨会，促进京津冀鲁体育产业交流与合作。",
+      "aiScore": 4,
+      "aiTags": [
+        "绿色低碳",
+        "体育产业",
+        "学术研讨",
+        "京津冀鲁",
+        "济南大学"
+      ]
+    },
     {
       "url": "https://stinfo.ujn.edu.cn/info/1014/13683.htm",
       "title": "关于济南大学周雷参与申报2026年度山东医学科技奖的公示",
@@ -48,6 +91,66 @@
         "2026年度",
         "公示",
         "武玮"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351863.htm",
+      "title": "我校学子在第十三届大学生新一代信息通信科技大赛全国总决赛中获佳绩",
+      "summary": "",
+      "dateStr": "2026-09-04",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学学子在第十三届大学生新一代信息通信科技大赛全国总决赛中荣获佳绩，展现学校人才培养成果。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "信息通信",
+        "科技大赛",
+        "获奖",
+        "人才培养"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/351853.htm",
+      "title": "青春筑梦田野 实干书写担当——学校2026年暑期“三下乡”社会实践活动收官",
+      "summary": "",
+      "dateStr": "2026-09-04",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学2026年暑期“三下乡”社会实践活动圆满收官，青年学子深入田野，以实干担当书写青春篇章。",
+      "aiScore": 4,
+      "aiTags": [
+        "三下乡",
+        "社会实践",
+        "济南大学",
+        "青春担当",
+        "暑期活动"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/351843.htm",
+      "title": "生物科学与技术学院在第五届合成生物学创新赛决赛中再获佳绩",
+      "summary": "",
+      "dateStr": "2026-09-04",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学生物科学与技术学院在第五届合成生物学创新赛决赛中再获佳绩，展现科研实力。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "生物科学与技术学院",
+        "合成生物学",
+        "创新赛",
+        "获奖"
       ]
     }
   ]
