@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T12:00:02.225Z",
+  "generatedAt": "2026-09-07T00:49:36.230Z",
   "lookbackDays": 1,
-  "aiEnabled": true,
+  "aiEnabled": false,
   "items": [
     {
       "url": "https://me.ujn.edu.cn/info/1444/16078.htm",
@@ -45,50 +45,6 @@
         "教师培训",
         "课程建设",
         "济南大学"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351923.htm",
-      "title": "我校获批山东省高等教育自学考试社会助学资质",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "考试"
-      ],
-      "aiSummary": "济南大学成功获批山东省高等教育自学考试社会助学资质，将开展相关助学工作。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "自学考试",
-        "社会助学",
-        "资质获批",
-        "山东省"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1049/351903.htm",
-      "title": "后勤管理处饮食服务管理中心组织开展校园餐饮安全专题培训",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "培训"
-      ],
-      "aiSummary": "后勤管理处饮食服务管理中心开展校园餐饮安全专题培训，强化食品安全管理。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "后勤管理",
-        "餐饮安全",
-        "培训",
-        "食品安全"
       ]
     },
     {
@@ -224,141 +180,6 @@
         "共青团",
         "会议",
         "新学期"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351943.htm",
-      "title": "副省长闫剑波到济南大学考察调研",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "副省长闫剑波到济南大学考察调研，关注学校发展。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "副省长",
-        "考察调研"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351893.htm",
-      "title": "学校召开新学期重点工作部署会",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学召开新学期重点工作部署会，明确任务方向，推动高质量发展。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "新学期",
-        "工作部署",
-        "会议"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351883.htm",
-      "title": "学校召开四届九次全委会扩大会议暨2026年暑期领导干部读书班",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学召开四届九次全委会扩大会议暨2026年暑期领导干部读书班，部署新学期工作。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "全委会",
-        "读书班",
-        "暑期",
-        "领导干部"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/351913.htm",
-      "title": "我校学生中国画作品入选第三届全国大学生美术作品展",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学学生中国画作品入选第三届全国大学生美术作品展，展现学校艺术教育成果。",
-      "aiScore": 4,
-      "aiTags": [
-        "济南大学",
-        "中国画",
-        "全国大学生美术作品展",
-        "艺术教育"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1048/351933.htm",
-      "title": "教育与心理科学学院组织专题学术报告",
-      "summary": "",
-      "dateStr": "2026-09-05",
-      "source": "济南大学官网",
-      "column": "教学科研",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "教育与心理科学学院举办专题学术报告，促进学术交流。",
-      "aiScore": 3,
-      "aiTags": [
-        "学术报告",
-        "教育与心理科学学院",
-        "学术交流"
-      ]
-    },
-    {
-      "url": "https://sce.ujn.edu.cn/info/1035/5933.htm",
-      "title": "福建师范大学协和学院国际教育学院到我院调研交流",
-      "summary": "7月10日上午，福建师范大学协和学院国际教育学院院长、国际事务部(港澳台事务部)主任刘京华，国际教育学院、国际事务部办公室副主任王晓丽，副教授黄丽燕一行莅临我院调研交流。学院党委书记、院长孙喜武，副院长曾慧祥，办公室主任鲁衍山及项目管理办公室相关人员出席座谈会。 孙喜武院长对刘京华一行的到访表示热烈欢迎，并系统介绍了济南大学继续教育学院的发展历程、办学定位及",
-      "dateStr": "2026-07-14",
-      "source": "继续教育学院",
-      "column": "新闻动态",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "福建师范大学协和学院国际教育学院到访济南大学继续教育学院，双方就办学经验等进行调研交流。",
-      "aiScore": 3,
-      "aiTags": [
-        "调研交流",
-        "继续教育",
-        "国际合作",
-        "高校来访"
-      ]
-    },
-    {
-      "url": "https://sep.ujn.edu.cn/info/1071/19805.htm",
-      "title": "北京师范大学刘超教授来我院作学术报告",
-      "summary": "为追踪学科前沿与交叉创新发展动态，拓宽师生学术视野，助力高水平科研创新队伍培养， 9 月 4 日，教育与心理科学学院邀请北京师范大学刘超教授前来作专题报告。本次报告主题为“从见义勇为的人类到向善的 AI ——利他行为的心理与脑研究及其在 AI 价值对齐中的应用”。报告由学院院长陈功香主持，学院 全体教职工 参加。 刘超教授首先系统介绍了其课题组的前沿研究成果",
-      "dateStr": "2026-09-05",
-      "source": "教育与心理科学学院",
-      "column": "更多>",
-      "priority": "low",
-      "level": "important",
-      "matched": [
-        "课题"
-      ],
-      "aiSummary": "北京师范大学刘超教授来济南大学作关于利他行为心理与脑研究及其在AI价值对齐中应用的学术报告，拓宽师生视野。",
-      "aiScore": 4,
-      "aiTags": [
-        "学术报告",
-        "利他行为",
-        "AI价值对齐",
-        "心理与脑研究",
-        "济南大学"
       ]
     },
     {
