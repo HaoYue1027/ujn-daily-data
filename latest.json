@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:00:02.369Z",
+  "generatedAt": "2026-09-12T00:23:05.244Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
@@ -14,32 +14,14 @@
       "priority": "high",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
-    },
-    {
-      "url": "https://jwc.ujn.edu.cn/info/1058/27646.htm",
-      "title": "关于组织2026年秋季学期普通话水平测试报名的通知",
-      "summary": "根据 上级有关部署和 学校工作 安排 ，济南大学普通话培训测试中心将于近期组织普通话水平测试。现将有关事项通知如下： 一、测试范围 202 7 届 、 2028届 全体毕业生 。 二 、测试方式 本次测试采用计算机辅助测试。 三 、测试时间 本次测试时间 暂定 于 202 6 年 10 月 31日、11月1日 ，具体时间见准考证。 四 、报名步骤 （一）本科",
-      "dateStr": "2026-10-31",
-      "source": "教务处",
-      "column": "通知公告",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "报名",
-        "毕业",
-        "培训"
-      ],
-      "aiSummary": "济南大学普通话培训测试中心将组织2026年秋季学期普通话水平测试，面向2027、2028届毕业生，采用计算机辅助测试，时间暂定10月31日、11月1日。",
-      "aiScore": 3,
+      "aiSummary": "9月10日，机械工程学院党委理论学习中心组开展2026年第十一次集体学习，学习习近平总书记重要讲话及党建文选。",
+      "aiScore": 2,
       "aiTags": [
-        "普通话测试",
-        "报名通知",
-        "济南大学",
-        "毕业生",
-        "教务处"
+        "机械工程学院",
+        "党委理论学习中心组",
+        "集体学习",
+        "习近平",
+        "党建"
       ]
     },
     {
@@ -86,71 +68,6 @@
         "项目申报",
         "济南大学",
         "学术出版"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/352313.htm",
-      "title": "学校举办光合科学前沿与发展战略研讨会",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "研讨会"
-      ],
-      "aiSummary": "济南大学举办光合科学前沿与发展战略研讨会，聚焦光合作用领域最新进展与未来方向。",
-      "aiScore": 3,
-      "aiTags": [
-        "光合科学",
-        "研讨会",
-        "济南大学",
-        "学术前沿",
-        "发展战略"
-      ]
-    },
-    {
-      "url": "https://jwc.ujn.edu.cn/info/1058/27626.htm",
-      "title": "关于组织开展2026年度山东省基础教育教学改革项目申报工作的通知",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "教务处",
-      "column": "通知公告",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "申报"
-      ],
-      "aiSummary": "教务处通知组织开展2026年度山东省基础教育教学改革项目申报工作，请相关单位关注。",
-      "aiScore": 3,
-      "aiTags": [
-        "教务处",
-        "项目申报",
-        "教学改革",
-        "山东省",
-        "通知"
-      ]
-    },
-    {
-      "url": "https://jwc.ujn.edu.cn/info/1058/27606.htm",
-      "title": "关于2026-2027学年秋季（第一）学期通选课学生选课通知",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "教务处",
-      "column": "通知公告",
-      "priority": "normal",
-      "level": "important",
-      "matched": [
-        "选课"
-      ],
-      "aiSummary": "教务处发布2026-2027学年秋季学期通选课学生选课通知，请学生按时完成选课。",
-      "aiScore": 3,
-      "aiTags": [
-        "选课通知",
-        "通选课",
-        "教务处",
-        "秋季学期"
       ]
     },
     {
@@ -261,9 +178,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "土木建筑学院举办新入职教师座谈会，庆祝教师节，促进交流与融入。",
+      "aiScore": 2,
+      "aiTags": [
+        "教师节",
+        "座谈会",
+        "新入职教师",
+        "土木建筑学院"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/352543.htm",
@@ -275,9 +197,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学学生工作处积极筹备，全力做好2026级新生迎接工作。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "学生工作处",
+        "迎新",
+        "2026级新生"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/352533.htm",
@@ -289,9 +216,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南市消防救援局走进济南大学开展消防安全宣传教育活动，提升师生消防安全意识与应急能力。",
+      "aiScore": 3,
+      "aiTags": [
+        "消防安全",
+        "宣传教育",
+        "济南大学",
+        "消防救援局",
+        "校园安全"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/352513.htm",
@@ -303,9 +236,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "教育与心理科学学院传达学习学校四届九次全委会扩大会议精神，部署落实工作。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "教育与心理科学学院",
+        "全委会",
+        "会议精神",
+        "传达学习"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/352503.htm",
@@ -317,9 +256,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "机械工程学院组织教师座谈会，名师引领共话育人，促进教学经验交流与人才培养。",
+      "aiScore": 3,
+      "aiTags": [
+        "机械工程学院",
+        "教师座谈会",
+        "名师引领",
+        "育人",
+        "教学交流"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/352493.htm",
@@ -331,9 +276,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学附属学校部署2026年秋季开学工作，确保新学期平稳有序。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "附属学校",
+        "秋季开学",
+        "教育工作"
+      ]
     },
     {
       "url": "https://jwc.ujn.edu.cn/info/1058/27656.htm",
@@ -345,9 +295,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "教务处发布2026年校级重点及以上教研项目结题验收汇报安排通知，请相关项目负责人关注。",
+      "aiScore": 3,
+      "aiTags": [
+        "教务处",
+        "教研项目",
+        "结题验收",
+        "汇报安排",
+        "通知"
+      ]
     },
     {
       "url": "http://co-develop.ujn.edu.cn/info/1032/11452.htm",
@@ -359,9 +315,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学2026级开学典礼上，化学化工学院2013届校友、苏州大学教授陈金星作为校友代表发言，恰逢教师节向老师致敬。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "开学典礼",
+        "校友",
+        "陈金星",
+        "教师节"
+      ]
     },
     {
       "url": "https://jdda.ujn.edu.cn/info/1021/3023.htm",
@@ -373,103 +335,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/352473.htm",
-      "title": "温情走访润师心，凝心座谈话发展——济南大学开展系列活动庆祝第42个教师节",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学开展走访座谈等系列活动，庆祝第42个教师节，关怀教师并共话学校发展。",
+      "aiSummary": "第42个教师节之际，济南大学、山东大学、山东师范大学三校档案馆党支部赴山东省档案馆联合开展主题党日活动，推动党建与档案业务融合。",
       "aiScore": 3,
       "aiTags": [
-        "济南大学",
         "教师节",
-        "走访慰问",
-        "座谈",
-        "学校发展"
+        "主题党日",
+        "高校档案馆",
+        "党建",
+        "馆际交流"
       ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/352463.htm",
-      "title": "济南大学2026级学生开学典礼隆重举行",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学2026级学生开学典礼隆重举行，校领导、师生代表出席，共同欢迎新生开启大学新篇章。",
-      "aiScore": 4,
-      "aiTags": [
-        "开学典礼",
-        "2026级",
-        "济南大学",
-        "新生",
-        "校园活动"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1047/352453.htm",
-      "title": "“为教师亮灯”致敬师者 “最美教师”风采闪耀筑梦初心",
-      "summary": "",
-      "dateStr": "2026-09-10",
-      "source": "济南大学官网",
-      "column": "济大要闻",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "济南大学开展'为教师亮灯'活动致敬师者，展示'最美教师'风采，弘扬尊师重教，激励筑梦初心。",
-      "aiScore": 3,
-      "aiTags": [
-        "济南大学",
-        "为教师亮灯",
-        "最美教师",
-        "尊师重教",
-        "教师节"
-      ]
-    },
-    {
-      "url": "http://library.ujn.edu.cn/info/1020/10024.htm",
-      "title": "EBSCO 2026年9-10月开学季网络课程上线啦",
-      "summary": "EBSCO 诚邀各位老师和学生参加我们的免费网络课程，手把手教您轻松便捷查论文资料， 部分英文文献 还能提供 全文翻译及朗读功能 ，既能查资料又能学英语！参与课程并填写课后问卷还可以参加 抽奖活动 哦！ EBSCO线上课程福利多多，EBSCO之前的听课得奖活动你参加了吗？之前的线上课程非常受大家的欢迎，目前我们已经寄出了超过500份的奖品，为了回馈大家的热情",
-      "dateStr": "2026-09-10",
-      "source": "图书馆",
-      "column": "新闻·通知",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "EBSCO推出免费网络课程，教查论文资料，提供全文翻译及朗读，参与可抽奖，已寄出超500份奖品。",
-      "aiScore": 3,
-      "aiTags": [
-        "EBSCO",
-        "网络课程",
-        "论文资料",
-        "全文翻译",
-        "抽奖活动"
-      ]
-    },
-    {
-      "url": "https://skc.ujn.edu.cn/info/1051/10808.htm",
-      "title": "关于开展全校人文社科科研平台梳理汇总工作的通知",
-      "summary": "各 有关单位 ： 为进一步规范我校 人文社科 科研平台建设与管理工作，持续推动科研平台提质增效，优化校内科研资源配置，最大限度发挥科研平台支撑学科建设、助力科研创新的核心效能， 现开展人文社科类 科研平台全面梳理、信息统计工作。现将有关事项通知如下： 一、梳理范围 依托 各学院 重点建设或拟重点建设的 各类各级 人文社科类 科研平台。 二、工作要求 1. 全",
-      "dateStr": "2026-09-10",
-      "source": "社会科学研究",
-      "column": "tzgg",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
     },
     {
       "url": "https://wen.ujn.edu.cn/info/1107/52412.htm",
@@ -503,9 +377,15 @@
       "priority": "low",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "化学化工学院举办2026级本科新生见面会暨开学第一课，院长陈国柱致欢迎词并阐释大学意义。",
+      "aiScore": 3,
+      "aiTags": [
+        "化学化工学院",
+        "新生见面会",
+        "开学第一课",
+        "济南大学",
+        "2026级"
+      ]
     },
     {
       "url": "https://chem.ujn.edu.cn/info/1069/15241.htm",
@@ -517,9 +397,15 @@
       "priority": "low",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "教师节前夕，校党委副书记商华走访慰问化学化工学院王冠教授，致以节日问候，并就人才培养、科研创新、学科建设等深入交流。",
+      "aiScore": 2,
+      "aiTags": [
+        "教师节",
+        "走访慰问",
+        "王冠教授",
+        "化学化工学院",
+        "人才培养"
+      ]
     },
     {
       "url": "https://tj.ujn.edu.cn/info/1059/17586.htm",
@@ -531,9 +417,15 @@
       "priority": "low",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "土木建筑学院9月10日举行2026级新生开学典礼暨开学第一课，学院领导、校友代表、教师及全体新生参会，党委书记李超讲授开学第一课。",
+      "aiScore": 3,
+      "aiTags": [
+        "土木建筑学院",
+        "开学典礼",
+        "开学第一课",
+        "2026级新生",
+        "济南大学"
+      ]
     },
     {
       "url": "https://sxy.ujn.edu.cn/info/1132/29590.htm",
@@ -545,9 +437,15 @@
       "priority": "low",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "商学院开展庆祝第42个教师节系列活动，弘扬尊师重教风尚，向全院教师致以节日问候。",
+      "aiScore": 2,
+      "aiTags": [
+        "济南大学",
+        "商学院",
+        "教师节",
+        "庆祝活动",
+        "尊师重教"
+      ]
     },
     {
       "url": "https://music.ujn.edu.cn/info/1044/14537.htm",
@@ -555,34 +453,6 @@
       "summary": "9月8日下午，音乐学院召开全体教职工大会，传达学习学校四届九次全委会扩大会议暨新学期重点工作部署会精神，总结上半年工作，部署学院新学期重点任务。会议由学院党委书记李红新主持。学院全体教职工参加会议。 学院党委书记李红新传达了学校党委书记刘春华在学校四届九次全委会扩大会议上作的题为《敢拼敢闯促发展 提速增效勇争先 以实干实绩交出开局之年精彩答卷》的工作报告。紧",
       "dateStr": "2026-09-11",
       "source": "音乐学院",
-      "column": "xyxw",
-      "priority": "low",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
-    },
-    {
-      "url": "https://math.ujn.edu.cn/info/1063/19127.htm",
-      "title": "数学科学学院召开党委扩大会议",
-      "summary": "2026年9月9日，数学科学学院召开党委扩大会议，对学院树立和践行正确政绩观学习教育工作进行总结，并对巩固拓展学习教育成果、建立树立和践行正确政绩观长效机制工作进行了部署。学院党委班子成员、各教师党支部书记参加会议。 会上，学院党委书记崔英静首先传达了习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神和中央、省委党的建设工作领导小组会议精神。随后，崔",
-      "dateStr": "2026-09-10",
-      "source": "数学科学学院",
-      "column": "xwdt",
-      "priority": "low",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
-    },
-    {
-      "url": "https://bio.ujn.edu.cn/info/1062/12203.htm",
-      "title": "刘春华书记来院走访慰问教师代表",
-      "summary": "在第42个教师节来临之际，9月8日上午，学校党委书记刘春华一行来到生物科学与技术学院亲切看望并慰问了学院外籍专家Alexander Ruban教授，向他致以节日的祝福和诚挚的问候。党委常委、副校长滕晋、学校办公室、人力资源处、国际合作与交流处等职能部门负责人陪同参加活动。 刘春华与Ruban教授进行了亲切友好的交流。她首先代表学校对Ruban教授致以节日的问",
-      "dateStr": "2026-09-10",
-      "source": "生物科学与技术学院",
       "column": "xyxw",
       "priority": "low",
       "level": "normal",
