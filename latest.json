@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T03:31:07.479Z",
+  "generatedAt": "2026-09-18T13:26:32.292Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
@@ -49,6 +49,93 @@
       ]
     },
     {
+      "url": "https://www.ujn.edu.cn/info/1049/353233.htm",
+      "title": "学校召开教师教学竞赛工作调研座谈会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "竞赛"
+      ],
+      "aiSummary": "济南大学召开教师教学竞赛工作调研座谈会，了解相关情况并听取意见。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "教学竞赛",
+        "调研座谈会",
+        "教师发展"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353183.htm",
+      "title": "学校举行2026级新生心理测评工作部署暨培训会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "培训"
+      ],
+      "aiSummary": "济南大学召开2026级新生心理测评工作部署暨培训会，安排测评流程与培训任务。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "心理测评",
+        "新生",
+        "培训会",
+        "工作部署"
+      ]
+    },
+    {
+      "url": "https://jwc.ujn.edu.cn/info/1058/27796.htm",
+      "title": "2026-2027学年秋季（第一）学期通选课停开课程学生补选的通知",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "教务处",
+      "column": "通知公告",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "选课"
+      ],
+      "aiSummary": "教务处通知2026-2027学年秋季学期通选课停开课程学生补选事宜。",
+      "aiScore": 3,
+      "aiTags": [
+        "通选课",
+        "补选",
+        "停开课程",
+        "教务处",
+        "选课通知"
+      ]
+    },
+    {
+      "url": "http://sygz.ujn.edu.cn/info/1031/13056.htm",
+      "title": "实验室与资产管理处召开新学期实验室安全检查暨督导专家培训会议",
+      "summary": "实验室与资产管理处召开新学期实验室安全检查暨督导专家培训会议 发布时间：2026年09月18日 14:40",
+      "dateStr": "2026-09-18",
+      "source": "招标采购",
+      "column": "gzdt",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "培训"
+      ],
+      "aiSummary": "实验室与资产管理处召开新学期实验室安全检查暨督导专家培训会议，部署安全检查工作并培训督导专家。",
+      "aiScore": 3,
+      "aiTags": [
+        "实验室安全",
+        "督导培训",
+        "资产管理处",
+        "新学期",
+        "安全检查"
+      ]
+    },
+    {
       "url": "http://library.ujn.edu.cn/info/1020/10074.htm",
       "title": "直播课程预告 | 智启科研新境—— Web of Science 助力选题与立项前的文献调研",
       "summary": "本次讲座将基于 Web of Science™ 平台及相关数据库，围绕选题和开题展开，通过 Web of Science™ 平台基础检索功能与技巧的介绍，结合具体案例，帮助您高效地开展选题开题工作。 直播时间： 9月22日（周二）15:00-16:00 “码”上报名 扫描海报二维码或在 PC端打开以下链接： https://0zjak.xetslk.com/",
@@ -74,6 +161,196 @@
       ]
     },
     {
+      "url": "https://www.ujn.edu.cn/info/1047/353253.htm",
+      "title": "学校党委理论学习中心组进行2026年第十四次集体学习",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学党委理论学习中心组开展2026年第十四次集体学习，属常规政治理论学习活动。",
+      "aiScore": 2,
+      "aiTags": [
+        "济南大学",
+        "党委理论学习中心组",
+        "集体学习",
+        "政治理论学习"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/353243.htm",
+      "title": "学校党委书记刘春华一行到音乐学院调研指导工作",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学党委书记刘春华一行到音乐学院调研指导工作，了解学院发展情况并提出指导意见。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "刘春华",
+        "音乐学院",
+        "调研",
+        "指导"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/353213.htm",
+      "title": "学校召开研究生教育教学2026年下半年工作部署会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学召开研究生教育教学2026年下半年工作部署会，安排相关重点任务。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "研究生教育",
+        "教学部署",
+        "工作会议"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/353153.htm",
+      "title": "高邮市来校开展科技镇长团“两访三对接”活动",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "高邮市来济南大学开展科技镇长团'两访三对接'活动，促进校地科技合作与人才对接。",
+      "aiScore": 3,
+      "aiTags": [
+        "高邮市",
+        "济南大学",
+        "科技镇长团",
+        "两访三对接",
+        "校地合作"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353283.htm",
+      "title": "机械工程学院举行2026级新生见面会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353273.htm",
+      "title": "体育学院与舒华体育开展校企合作座谈交流",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353223.htm",
+      "title": "戎装映青春 携笔赴军营——学校人民武装部慰问我校役前训练新兵",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353193.htm",
+      "title": "我校专家学者受邀参加“留学报国·智汇齐鲁·才聚聊城”中国·山东（聊城）创新创业大会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353173.htm",
+      "title": "机关党委青年理论学习小组开展“学习暑期领导干部读书班精神”专题学习研讨",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353163.htm",
+      "title": "逐光启新程 砺艺担使命——音乐学院举办2026级新生开学典礼暨入学第一课",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353143.htm",
+      "title": "信息科学与工程学院举行2024级考研动员大会",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1049/353133.htm",
+      "title": "信息科学与工程学院举办优秀教师代表座谈会暨教师荣休仪式",
+      "summary": "",
+      "dateStr": "2026-09-18",
+      "source": "济南大学官网",
+      "column": "新闻纵横",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
+    },
+    {
       "url": "https://siee.ujn.edu.cn/info/1094/4701.htm",
       "title": "济南大学刚果（布）马利安•恩古瓦比大学孔子学院来华秋令营开营仪式成功举行",
       "summary": "9月17日下午，济南大学刚果（布）马利安·恩古瓦比大学孔子学院来华秋令营开营仪式在学校第一会议室举行。济南大学党委常委、副校长李强，刚果（布）马利安·恩古瓦比大学孔子学院中方院长周志民，以及来自马利安·恩古瓦比大学孔子学院、刚果（布）中文国际学校、马利安·恩古瓦比军事学院的21名营员出席开营仪式，国际合作与交流处、国际教育交流学院相关负责人参加活动。开营仪式",
@@ -91,6 +368,46 @@
         "刚果（布）",
         "秋令营",
         "来华留学"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/353113.htm",
+      "title": "济南大学格拉斯哥加利多尼亚学院第一次联合管理委员会会议召开",
+      "summary": "",
+      "dateStr": "2026-09-17",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学格拉斯哥加利多尼亚学院召开第一次联合管理委员会会议，标志着该中外合作办学机构进入正式运行阶段。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "格拉斯哥加利多尼亚学院",
+        "联合管理委员会",
+        "中外合作办学",
+        "会议"
+      ]
+    },
+    {
+      "url": "https://www.ujn.edu.cn/info/1047/353103.htm",
+      "title": "学校举办“赓续红色血脉 弘扬长征精神”——《长征组歌》专场文艺汇演暨开学第一课",
+      "summary": "",
+      "dateStr": "2026-09-17",
+      "source": "济南大学官网",
+      "column": "济大要闻",
+      "priority": "normal",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "济南大学举办《长征组歌》专场文艺汇演暨开学第一课，以红色经典赓续长征精神，激励师生。",
+      "aiScore": 4,
+      "aiTags": [
+        "济南大学",
+        "长征组歌",
+        "红色教育",
+        "开学第一课",
+        "文艺汇演"
       ]
     },
     {
@@ -134,81 +451,118 @@
       ]
     },
     {
-      "url": "https://www.ujn.edu.cn/info/1049/353023.htm",
-      "title": "土木建筑学院召开2026级研究生新生见面会暨入学教育第一课",
-      "summary": "",
-      "dateStr": "2026-09-17",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "土木建筑学院召开2026级研究生新生见面会暨入学教育第一课，帮助新生了解学院与入学要求。",
-      "aiScore": 2,
+      "url": "https://mse.ujn.edu.cn/info/1082/22128.htm",
+      "title": "夯实党务基本功 严把党员发展关 —— 材料科学与工程学院召开党支部书记业务培训会",
+      "summary": "为深入贯彻新时代党的建设总要求，严格落实《中国共产党发展党员工作细则》，进一步规范党员发展全流程工作，提升基层党务工作者业务能力，筑牢基层党组织战斗堡垒， 9 月 18 日 ，济南大学材料科学与工程学院召开党支部书记专题业务培训会，学院各党支部书记、全体支部委员共同参加培训。 培训会上，学院 正处级组织员朱小燕 围绕发展党员五个阶段、全流程关键节点开展系统业",
+      "dateStr": "2026-09-18",
+      "source": "材料科学与工程学院",
+      "column": "校友动态",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "培训"
+      ],
+      "aiSummary": "材料科学与工程学院召开党支部书记业务培训会，规范党员发展全流程，提升基层党务工作者业务能力。",
+      "aiScore": 3,
       "aiTags": [
-        "土木建筑学院",
+        "党务培训",
+        "党员发展",
+        "基层党建",
+        "材料学院",
+        "支部书记"
+      ]
+    },
+    {
+      "url": "https://sep.ujn.edu.cn/info/1071/19895.htm",
+      "title": "教育与心理科学学院赴山东成雅文化传播有限公司开展访企拓岗活动",
+      "summary": "为扎实推进访企拓岗促就业专项行动，深化校企协同育人模式，精准对接行业人才需求，拓宽毕业生就业渠道，9月1 6 日 ，教育与心理科学学院副院长杨鹏 、心理学系教师王凯旋前往 校友企业山东成雅文化传播有限公司开展 走访调研 ，成雅文化负责人陈宁参加座谈。 座谈会上， 陈宁对 母校老师 到访表示欢迎，并介绍了公司发展概况。成雅文化专注于学校文化建设和教育品牌整合优",
+      "dateStr": "2026-09-18",
+      "source": "教育与心理科学学院",
+      "column": "更多>",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "毕业"
+      ],
+      "aiSummary": "教育与心理科学学院赴校友企业成雅文化开展访企拓岗，深化校企合作，拓宽毕业生就业渠道。",
+      "aiScore": 3,
+      "aiTags": [
+        "访企拓岗",
+        "校企合作",
+        "就业",
+        "教育与心理科学学院",
+        "校友企业"
+      ]
+    },
+    {
+      "url": "https://bio.ujn.edu.cn/info/1063/12273.htm",
+      "title": "生物科学与技术学院2024—2025学年研究生国家奖学金申请材料公示",
+      "summary": "2025—2026学年研究生国家奖学金学院共有13人提出申报，现将申请材料进行公示，如有异议，请向学院联系反馈。 相关材料放在特教楼B1015房间，公示期为9月18日-9月20日。自公布之日起，任何单位或者个人对本次公示持有异议的，可以书面向我院提出，并提供必要的证明材料。为保证实事求是、客观公正地处理异议，提出异议者应表明真实身份，提供联系方式，我院将按有",
+      "dateStr": "2026-09-18",
+      "source": "生物科学与技术学院",
+      "column": "tzgg",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "奖学金",
+        "申报",
+        "公示"
+      ],
+      "aiSummary": "生物科学与技术学院公示2025—2026学年研究生国家奖学金13人申请材料，公示期9月18日至20日，异议可书面反馈。",
+      "aiScore": 3,
+      "aiTags": [
+        "国家奖学金",
         "研究生",
-        "新生见面会",
-        "入学教育"
+        "公示",
+        "生物科学与技术学院",
+        "济南大学"
       ]
     },
     {
-      "url": "https://www.ujn.edu.cn/info/1049/353013.htm",
-      "title": "文化和旅游学院开展2026级新生破冰素质拓展活动",
-      "summary": "",
-      "dateStr": "2026-09-17",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "文化和旅游学院为2026级新生举办破冰素质拓展活动，帮助新生快速融入集体，增强团队凝聚力。",
-      "aiScore": 2,
+      "url": "https://bio.ujn.edu.cn/info/1063/12263.htm",
+      "title": "生物科学与技术学院2025-2026学年研究生学业奖学金公示",
+      "summary": "根据党委研究生工作部《2025-2026学年研究生综测及评奖评优工作通知》要求，经学院研究生学业奖学金评定工作领导小组评议审核，确定刘子琪等169人获得研究生学业奖学金（名单见后），上报研究生工作部，现予公示。 相关材料放在特教楼B1015房间，公示期为9月18日-9月20日。自公布之日起，任何单位或者个人对本次公示持有异议的，可以书面向我院提出，并提供必要",
+      "dateStr": "2026-09-18",
+      "source": "生物科学与技术学院",
+      "column": "tzgg",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "奖学金",
+        "公示",
+        "评优",
+        "评奖"
+      ],
+      "aiSummary": "生物科学与技术学院公示2025-2026学年研究生学业奖学金，刘子琪等169人获奖，公示期9月18日至20日。",
+      "aiScore": 3,
       "aiTags": [
+        "研究生学业奖学金",
+        "公示",
+        "生物科学与技术学院",
         "济南大学",
-        "文化和旅游学院",
-        "新生",
-        "素质拓展",
-        "破冰活动"
+        "评奖评优"
       ]
     },
     {
-      "url": "https://www.ujn.edu.cn/info/1049/353003.htm",
-      "title": "化学化工学院党委召开树立和践行正确政绩观学习教育总结会议",
-      "summary": "",
-      "dateStr": "2026-09-17",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "化学化工学院党委召开树立和践行正确政绩观学习教育总结会议，总结学习教育成效，部署后续工作。",
+      "url": "https://sdbmlab.ujn.edu.cn/info/1044/3672.htm",
+      "title": "山东省绿色与智能建筑材料重点实验室2025-2026学年研究生学业奖学金公示",
+      "summary": "山东省绿色与智能建筑材料重点实验室 202 5 -202 6 学年研究生学业奖学金公示 一等 ： 马凯 、 刘绍锐 、 卢烁 、 李鸿图 、 程振阅 、 张昊暄 、 王展鹏 、 姜远鑫 、 翟汝芹、亓延硕 车梦男 、 李星雨 。 二等 ： 于粮 、 宁帅 、 鞠殿元 、 韩瑞琪 、 苏道渐 、 张波 、 王晓语 、 张洁 、 汤镇豪 、 孙屹群、 陈宏楷、刁",
+      "dateStr": "2026-09-18",
+      "source": "绿色与智能建筑材料重点实验室",
+      "column": "通知公告",
+      "priority": "low",
+      "level": "important",
+      "matched": [
+        "奖学金",
+        "公示"
+      ],
+      "aiSummary": "山东省绿色与智能建筑材料重点实验室公示2025-2026学年研究生学业奖学金，马凯等12人获一等，于粮等多人获二等。",
       "aiScore": 2,
       "aiTags": [
-        "济南大学",
-        "化学化工学院",
-        "党委会议",
-        "政绩观",
-        "学习教育"
-      ]
-    },
-    {
-      "url": "https://www.ujn.edu.cn/info/1049/352993.htm",
-      "title": "外国语学院举行2026级新生开学典礼暨“开学第一课”",
-      "summary": "",
-      "dateStr": "2026-09-17",
-      "source": "济南大学官网",
-      "column": "新闻纵横",
-      "priority": "normal",
-      "level": "normal",
-      "matched": [],
-      "aiSummary": "外国语学院举行2026级新生开学典礼暨'开学第一课'，欢迎新生并开展入学教育。",
-      "aiScore": 2,
-      "aiTags": [
-        "外国语学院",
-        "开学典礼",
-        "开学第一课",
-        "新生",
+        "奖学金公示",
+        "研究生",
+        "绿色建筑材料",
+        "智能建筑材料",
         "济南大学"
       ]
     },
@@ -392,6 +746,20 @@
         "济南大学",
         "ACCESS 2026"
       ]
+    },
+    {
+      "url": "https://music.ujn.edu.cn/info/1044/14567.htm",
+      "title": "逐光启新程 砺艺担使命 ——济南大学音乐学院2026级新生开学典礼隆重举行",
+      "summary": "金风送爽，泉城启序。在充满收获与希望的九月，济南大学音乐学院2026级新生开学典礼隆重举办。学院党委书记李红新、院长马新涛、党委副书记董晓宁、副院长齐丽花出席典礼，2026级全体新生齐聚一堂，正式开启作为“济大音院人”的逐梦征途。 典礼伊始，董晓宁首先向新生逐一介绍与会的学院领导、系部主任、以及辅导员班主任。随后举行新生班主任聘任仪式，学院领导为受聘班主任代",
+      "dateStr": "2026-09-18",
+      "source": "音乐学院",
+      "column": "xyxw",
+      "priority": "low",
+      "level": "normal",
+      "matched": [],
+      "aiSummary": "",
+      "aiScore": 0,
+      "aiTags": []
     }
   ]
 }
