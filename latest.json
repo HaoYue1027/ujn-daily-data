@@ -1,9 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T08:49:05.845Z",
+  "generatedAt": "2026-09-25T12:00:02.043Z",
   "lookbackDays": 1,
   "aiEnabled": true,
   "items": [
+    {
+      "url": "https://yjs.ujn.edu.cn/info/1033/20956.htm",
+      "title": "关于2027届预计毕业研究生信息采集补拍的通知",
+      "summary": "关于2027届预计毕业研究生信息采集补拍的通知",
+      "dateStr": "2026-10-14",
+      "source": "研究生院",
+      "column": "通知公告",
+      "priority": "normal",
+      "level": "important",
+      "matched": [
+        "毕业"
+      ],
+      "aiSummary": "研究生院通知2027届预计毕业研究生进行信息采集补拍，相关人员需按要求完成。",
+      "aiScore": 3,
+      "aiTags": [
+        "研究生",
+        "信息采集",
+        "补拍",
+        "毕业",
+        "通知"
+      ]
+    },
     {
       "url": "https://www.ujn.edu.cn/info/1049/353653.htm",
       "title": "学校离退休工作处联合汇贤社区推出高龄补贴集中代办进校园服务",
@@ -14,9 +36,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学离退休工作处联合汇贤社区，推出高龄补贴集中代办进校园服务，方便离退休教职工办理。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "离退休工作处",
+        "汇贤社区",
+        "高龄补贴",
+        "代办服务"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1047/353703.htm",
@@ -28,9 +56,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学举行2026级新生军训总结表彰大会，总结军训成果并表彰先进。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "军训",
+        "表彰大会",
+        "新生",
+        "2026级"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1047/353683.htm",
@@ -42,9 +76,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学召开2026年中秋国庆假期安全工作部署会，安排假期校园安全稳定工作。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "安全工作",
+        "假期部署",
+        "中秋国庆"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1047/353673.htm",
@@ -56,9 +95,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济钢集团党委副书记、总经理徐强一行来济南大学调研交流，双方就深化校企合作等事宜进行座谈。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "济钢集团",
+        "调研交流",
+        "校企合作"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1047/353663.htm",
@@ -70,9 +114,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "学校党委理论学习中心组开展2026年第十五次集体学习，属常规政治理论学习活动。",
+      "aiScore": 2,
+      "aiTags": [
+        "党委理论学习中心组",
+        "集体学习",
+        "济南大学",
+        "政治理论学习"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/353633.htm",
@@ -84,9 +133,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学组织2026级新生开展消防安全教育及灭火疏散演练，提升新生安全意识和应急能力。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "消防安全",
+        "新生教育",
+        "疏散演练",
+        "校园安全"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/353623.htm",
@@ -98,9 +153,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "党委巡察办党支部召开支部会议，并举办活动庆祝第42个教师节。",
+      "aiScore": 2,
+      "aiTags": [
+        "党委巡察办",
+        "党支部会议",
+        "教师节",
+        "庆祝活动"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/353613.htm",
@@ -112,9 +172,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "体育学院举办2026级新生见面会，主题为奋楫启新程、逐梦向未来，帮助新生开启大学新篇章。",
+      "aiScore": 2,
+      "aiTags": [
+        "体育学院",
+        "新生见面会",
+        "2026级",
+        "济南大学"
+      ]
     },
     {
       "url": "https://www.ujn.edu.cn/info/1049/353603.htm",
@@ -126,9 +191,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "商学院召开新学期全院教职工大会，对标部署抓落实，聚力攻坚开新局，明确新学期工作方向。",
+      "aiScore": 3,
+      "aiTags": [
+        "济南大学",
+        "商学院",
+        "教职工大会",
+        "新学期",
+        "工作部署"
+      ]
     },
     {
       "url": "https://jwc.ujn.edu.cn/info/1058/27916.htm",
@@ -140,9 +211,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "济南大学公告拟对超过最长修业年限且无法送达告知书的学生作退学处理，公告期30天，可书面申诉。",
+      "aiScore": 3,
+      "aiTags": [
+        "退学处理",
+        "修业年限",
+        "学籍管理",
+        "公告",
+        "申诉"
+      ]
     },
     {
       "url": "https://jwc.ujn.edu.cn/info/1058/27896.htm",
@@ -154,9 +231,14 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "教务处发布第三轮校级人工智能交叉课程验收工作通知，要求相关课程负责人按要求提交材料。",
+      "aiScore": 3,
+      "aiTags": [
+        "教务处",
+        "人工智能交叉",
+        "课程验收",
+        "通知"
+      ]
     },
     {
       "url": "https://jwc.ujn.edu.cn/info/1058/27866.htm",
@@ -168,9 +250,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "教务处发布通知，将开展2026年师范类专业第二级认证预评估工作，请相关学院和专业做好准备。",
+      "aiScore": 4,
+      "aiTags": [
+        "师范类专业",
+        "专业认证",
+        "预评估",
+        "教务处",
+        "通知"
+      ]
     },
     {
       "url": "http://library.ujn.edu.cn/info/1020/10134.htm",
@@ -182,9 +270,15 @@
       "priority": "normal",
       "level": "normal",
       "matched": [],
-      "aiSummary": "",
-      "aiScore": 0,
-      "aiTags": []
+      "aiSummary": "图书馆为2026级新生开展入馆教育暨迎新活动，志愿者讲解员在两校区带领新生熟悉馆藏资源与平台操作。",
+      "aiScore": 3,
+      "aiTags": [
+        "新生入馆教育",
+        "图书馆",
+        "迎新活动",
+        "志愿服务",
+        "济南大学"
+      ]
     },
     {
       "url": "http://library.ujn.edu.cn/info/1020/10114.htm",
